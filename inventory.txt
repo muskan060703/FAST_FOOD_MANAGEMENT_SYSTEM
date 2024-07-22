@@ -1,0 +1,24 @@
+
+
+Inventory Update (2024-5-1 12:7:45):
+Pizza: 5
+Burger: 34
+Sandwich: 23
+Ice-Cream: 33
+Cakes: 45
+
+
+Inventory Update (2024-5-1 12:23:13):
+Pizza: 45
+Burger: 34
+Sandwich: 23
+Ice-Cream: 44
+Cakes: 23
+
+
+Inventory Update (2024-5-1 12:54:41):
+Pizza: 56
+Burger: 34
+Sandwich: 12
+Ice-Cream: 45
+Cakes: 34

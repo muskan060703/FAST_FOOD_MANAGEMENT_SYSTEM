@@ -1,0 +1,33 @@
+
+
+
+				YOUR ORDER DETAILS
+				-------------------
+				Pizza: 2
+				Burger: 0
+				Sandwich: 0
+				Ice-Cream: 0
+				Cake: 0
+				Total Amount: 1400
+
+
+
+				YOUR ORDER DETAILS
+				-------------------
+				Pizza: 0
+				Burger: 0
+				Sandwich: 0
+				Ice-Cream: 3
+				Cake: 0
+				Total Amount: 360
+
+
+
+				YOUR ORDER DETAILS
+				-------------------
+				Pizza: 4
+				Burger: 0
+				Sandwich: 0
+				Ice-Cream: 0
+				Cake: 0
+				Total Amount: 2800
